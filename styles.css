@@ -24,7 +24,7 @@
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    border: 1px solid rgb(67, 93, 149));
+    border: 1px solid rgb(67, 93, 149);
     margin-bottom: 18px;
 }
 
@@ -35,10 +35,10 @@
 
 .information-column ul {
     list-style-type: none;
-    
+
 }
 
-.information-column li{
+.information-column li {
     text-align: left;
     margin: 10px 0;
 }
@@ -105,9 +105,9 @@
 }
 
 @media (min-width: 992px) {
-        .container {
-            display: flex;
-        }
+    .container {
+        display: flex;
+    }
 }
 
 .experiences-column .experience {
